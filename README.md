@@ -20,14 +20,16 @@ To develop into an Identity-Focused Support Engineer specializing in Microsoft E
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/jsec82/On-Prem-AD-domain-with-Splunk-SIEM/edit/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Implement IAM in Microsoft Entra ID | <a href="https://github.com/jsec82/Implement-an-identity-management-solution-using-Microsoft-Entra-ID">Identity Management Implementation</a>|
+
+
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -61,4 +63,4 @@ To develop into an Identity-Focused Support Engineer specializing in Microsoft E
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- Implement an identity management solution using Microsoft Entra ID
