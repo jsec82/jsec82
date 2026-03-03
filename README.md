@@ -1,23 +1,25 @@
 # Hello, I'm Jeroen
+
 <a href="https://www.linkedin.com/in/jeroenvanderweijden" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Jeroen%20van%20der%20Weijden-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-[Brief Introduction - Remove this afterwards]
+With over 15 years of experience in IT support and modern workplace environments, I am transitioning toward a specialized role as an Identity-Focused Support Engineer with a strong emphasis on Zero Trust security principles.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My background includes 12 years in second-line support and 3 years as a Modern Workplace Engineer, where I gained hands-on experience with Microsoft Entra ID, Conditional Access, MFA enforcement, RBAC, and device compliance integration through Intune. I have supported user lifecycle management, access control design, and secure onboarding/offboarding processes in enterprise environments.
+
+I am currently strengthening my security foundation through CompTIA Security+ and deepening my identity expertise with SC-300 (Microsoft Identity and Access Administrator), focusing on identity governance, access reviews, Privileged Identity Management (PIM), and Zero Trust architecture.
+
+My goal is to contribute as a support engineer who not only resolves identity-related incidents, but actively improves access security, reduces risk, and strengthens organizational identity posture.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To develop into an Identity-Focused Support Engineer specializing in Microsoft Entra ID and Zero Trust security, leveraging my 15+ years of IT support experience to strengthen identity governance, access control, and enterprise security posture. Through Security+ and SC-300 certification, I aim to transition from endpoint-focused support to a role centered on Identity and Access Management (IAM), Conditional Access, RBAC, and secure identity lifecycle management.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/jsec82/On-Prem-AD-domain-with-Splunk-SIEM/edit/main/README.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
