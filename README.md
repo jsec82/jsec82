@@ -1,5 +1,7 @@
 # Hello, I'm Jeroen
-<a href="[https://www.linkedin.com/in/jeroenvanderweijden](https://www.linkedin.com)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jeroenvanderweijden" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Jeroen%20van%20der%20Weijden-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 [Brief Introduction - Remove this afterwards]
 
